@@ -8,7 +8,7 @@ Student ID: 6705140058
 - quiz-02: letter_grade function with boundary tests
 - quiz-03: email and age validators with positive and negative tests
 
-Each `quiz-XX/` folder contains:
-- `solution.py` - the implementation
-- `test_*.py` - the pytest tests
-- `README.md` - how to run it and sample output
+Each quiz-XX/ folder contains:
+- solution.py - the implementation
+- test_*.py - the pytest tests
+- README.md - how to run it and sample output
